@@ -1,0 +1,14 @@
+Assignment 5.1
+
+1. How many vowels are there in the names of USA States?
+12
+
+2. Visualize the vowels distribution.
+
+Hi Team
+
+I was not able to find the vowels USA states, hence I plotted cars through R data set
+
+kindly let me know if that will work or no.
+
+
